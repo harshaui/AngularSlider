@@ -1,0 +1,20 @@
+{
+	"usersDetails":[
+		{
+			"userName":"Harsha",
+			"status":"Active"
+		},
+		{
+			"userName":"Likitha",
+			"status":"Future"
+		},
+		{
+			"userName":"Priya",
+			"status":"Expired"
+		},
+		{
+			"userName":"Shruthi",
+			"status":"Future"
+		}
+	]
+}

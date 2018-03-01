@@ -1,0 +1,6 @@
+<p-slider [(ngModel)]="val" [step]="20" [style]="{'width':'200px'}" (onChange)="handleChange($event)"></p-slider>
+<span>All</span><span>Expired</span><span>Future</span><span>Active</span><span>All</span>
+<div *ngFor="let user of userData">
+  <span>{{user.userName}}</span>
+  <span>{{user.status}}</span>
+</div>

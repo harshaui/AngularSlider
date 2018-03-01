@@ -1,0 +1,19 @@
+.range {
+    position: relative;
+    width: 550px;
+    height: 5px;
+}
+.range-labels {
+    margin: 18px -41px 0;
+    padding: 0;
+    list-style: none;
+}
+li {
+    position: relative;
+    float: left;
+    width: 90.25px;
+    text-align: center;
+    color: #b2b2b2;
+    font-size: 14px;
+    cursor: pointer;
+}
